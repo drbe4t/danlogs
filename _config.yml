@@ -2,6 +2,7 @@
 title: Danlog- A site about my thoughts.
 email: drbe4t@gmail.com
 description: A blog about me, Daniel Rubio, and the things that motivate, inspire, and hinder me. 
+baseurl: '/danlogs'
 url: "http://webconfs.me" # the base hostname & protocol for your site
 twitter_username: drbe4t
 paginate: 3 
