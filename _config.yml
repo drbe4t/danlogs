@@ -1,0 +1,43 @@
+# Site settings
+title: Danlog- A site about my thoughts.
+email: drbe4t@gmail.com
+description: A blog about me, Daniel Rubio, and the things that motivate, inspire, and hinder me. 
+url: "http://webconfs.me" # the base hostname & protocol for your site
+twitter_username: drbe4t
+paginate: 3 
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values: 
+        author: Daniel Rubio
+        layout: "post"
+        comments: true
+        
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values: 
+        layout: "page"
+        
+  -
+   scope:
+     path: ""
+     type: "drafts"
+     
+   values:
+     author: Daniel Rubio
+     layout: "post"
+        
+        
+
+
+ 

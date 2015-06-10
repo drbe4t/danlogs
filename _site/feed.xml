@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danlog- A site about my thoughts.</title>
+    <description>A blog about me, Daniel Rubio, and the things that motivate, inspire, and hinder me.</description>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Jun 2015 01:53:46 -0600</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2015 01:53:46 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;p&gt;My name is Daniel Rubio, I’m 23 years old, a soon-to-be-father, and glass half full kind of man. I’m a digital content creator that is based in Utah. I focus on &lt;a href=&quot;https://www.youtube.com/user/DRbe4t&quot;&gt;Filmmaking&lt;/a&gt;, but I’ve recently found a love for audio creation. Primarily podcasting and I’m beginning to think that I’d like to work in that field and use filmmaking as my creative outlet.  I am LDS( Latter Day Saint) or &lt;a href=&quot;http://www.mormon.org&quot;&gt;Mormon&lt;/a&gt;. I served a two year Spanish speaking mission in New England. I’m married to the women of my dreams. I love food and meeting new people.&lt;/p&gt;
+
+&lt;h2 id=&quot;why&quot;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;As of today I decided I really wanted to  become better at coding, and what better way to do this than by learning how to create a &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; website. About 5 years ago my career path/goal was to become a web developer. However, I realized my passion and drive was to become a digial content creator.&lt;/p&gt;
+
+&lt;p&gt;The coding and web development bug is still active and has been for quite awhile, but it wasn’t until recently when I was watching &lt;em&gt;&lt;a href=&quot;https://www.youtube.com/user/caseyneistat&quot;&gt;Casey Neistat’s&lt;/a&gt;&lt;/em&gt; vlog about his Grandma tap dancing until the day she died, and that He wanted to be making movies until the day he died that I realized that I wanted to  learn and improve skills that I have until the day I die. One of those skills is coding. Which bring me here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journaling&lt;/strong&gt; is the other reason. You see I once heard Wilford Woodruff, a prophet of the church, say “We are a record keeping people.” Which has been confirmed to me by numerous scriptures. I also was a avid journaler on the mission. Mostly because I couldn’t use a computer (more on that in another post.. someday). I also do vlogs but there is a whole different feel in writing/typing your thoughts out that is unique to the medium which is another reason why I’m creating this blog.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-motto&quot;&gt;The Motto&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Work Harder” -Casey Neistat&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Something I’ve come to realize in the past year isn’t soemthing new or revolutionary, it’s just true. I’ve learned that I must do, accomplish, fail/succeed, and repeat. Doing this will make provide more happiness in my life.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“They only way to great work, is to love what you do” - Steve Jobs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You might be thinking. &lt;em&gt;“Daniel, you don’t need to do all of that to be happy!”&lt;/em&gt; To you I would say, you’re right. Because I’m currently very happy but I feel a little empty. Like I said I’m a glass half full type of guy and I love consuming great content and I’d love to be someone who is contributing to the world with awesoem quality content. Even if that content is just for my family and I. I, however, will never accomplish that if I don’t work hard and produce it myself  by being engaged in creating, creating ANYTHING!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness..” - D&amp;amp;C  58:27&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hope you that I haven’t bored you, with my crazy thoughts. I just feel that this would be good for me. I hope that I continue to learn to code for this blog, as well as improve my writing through this blog. If you like what I’m producing feel free to follow me on all the social medias using my handle @drbe4t.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 07 Jun 2015 23:25:00 -0600</pubDate>
+        <link>http://webconfs.me/Introduction</link>
+        <guid isPermaLink="true">http://webconfs.me/Introduction</guid>
+        
+        
+        <category>who</category>
+        
+        <category>am</category>
+        
+        <category>i</category>
+        
+      </item>
+    
+      <item>
+        <title>Sassconf</title>
+        <description>&lt;p&gt;Learning about how I can save and edit a post. For this example Guilh is teaching me how to edit and use the yaml information to make ajustments to the code.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jun 2015 03:45:36 -0600</pubDate>
+        <link>http://webconfs.me/sass-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/sass-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
